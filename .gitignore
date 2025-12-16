@@ -1,0 +1,8 @@
+node_modules
+/.next
+/web/.next
+/server/node_modules
+.env
+dist
+coverage
+replit.nix
